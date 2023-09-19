@@ -1,0 +1,3 @@
+Start est appelé avant l'update de la première image
+
+Le joueur a commencé
