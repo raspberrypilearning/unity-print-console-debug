@@ -1,3 +1,3 @@
-Start is called before the first frame update
+Start wordt aangeroepen vóór de eerste frame-update
 
-Player started
+Speler is gestart
