@@ -1,4 +1,4 @@
-Use the `Debug.Log()` method to print a message to help you debug your code. The message will appear in the bar at the bottom of the Unity Editor and in the Console window:
+Gebruik de `Debug.Log()`-methode om een bericht af te drukken dat je helpt bij het opsporen van fouten in jouw code. Het bericht verschijnt in de balk onder aan de Unity Editor en in het Console-venster:
 
 ```
     // Start is called before the first frame update
@@ -8,4 +8,4 @@ Use the `Debug.Log()` method to print a message to help you debug your code. The
     }
 ```
 
-You can also print the value of a variable and join together items with `+`. 
+Je kunt ook de waarde van een variabele afdrukken en items samenvoegen met `+`. 
